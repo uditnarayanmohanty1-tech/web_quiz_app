@@ -7,6 +7,7 @@ const bgImages = [
   "https://cdn.pixabay.com/photo/2020/09/23/07/53/question-mark-5595294_1280.jpg",
   "https://cdn.pixabay.com/photo/2020/12/03/09/47/pencil-5800079_1280.jpg",
   "https://cdn.pixabay.com/photo/2022/03/15/08/23/school-supplies-7069759_1280.jpg"
+  
 ];
 
 const backgrounds = [
@@ -171,4 +172,5 @@ function restartQuiz() {
     document.getElementById("resultScreen").style.display = "none";
     document.getElementById("startScreen").style.display = "block";
 }
+
 
